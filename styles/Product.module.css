@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.container div{
+    width: 300px;
+    height: 300px;
+    margin: 30px 15px;
+    background: #333;
+}
+.title{
+    color: #fff;
+    text-align: center;
+    font-size: 1.2em;
+}
+.container div:hover{
+    background: orange;
+}

@@ -1,0 +1,18 @@
+.title{
+    color:#333;
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    width: 150px;
+    padding: 8px 0;
+    background: #4979ff;
+    border-radius: 4px;
+    color: white;
+    text-align: center;
+}
